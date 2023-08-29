@@ -4,6 +4,7 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gb-vaillant/)
 
 ![Vaillant GitHub stats](https://github-readme-stats.vercel.app/api?username=GBvaillant&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBvaillant&theme=transparent)
 
 ## Tecnologias
@@ -19,5 +20,6 @@
 <img align='center' alt='prisma' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'>
 <img align='center' alt='mongo' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 <img align='center' alt='postgre' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
+<img align='center' alt='docker' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>
 
 </div>
